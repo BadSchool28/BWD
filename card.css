@@ -226,9 +226,9 @@
   transition: all 0.3s;
 }
 .material-card.mc-active .img-container {
-  -webkit-border-radius: 50%;
-  -moz-border-radius: 50%;
-  border-radius: 50%;
+  -webkit-border-radius: 10%;
+  -moz-border-radius: 10%;
+  border-radius: 10%;
   left: 0;
   top: 12px;
   width: 60px;
@@ -1266,7 +1266,16 @@ h3 {
 	height: 300px;
 	background-color: red;
 }
-.middle{
-  margin-left: auto;
-  margin-right: auto;
+b {
+  font-size: large;
+  color: red;
+  margin-bottom: 15ex;
+  width: 25ex;
+  height: 25ex;
+  
+}
+.mid{
+  
+  margin-bottom: 15px;
+  
 }
